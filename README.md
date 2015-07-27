@@ -1,6 +1,4 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Project Name}
+#Aldelo EXP 2 TXT
 
 Convert Aldelo default EXP format to a readable txt file.
 
@@ -21,7 +19,3 @@ run file expConvert.py -f <filename>
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
