@@ -9,7 +9,7 @@ Convert Aldelo default EXP format to a readable txt file.
 ## Usage
 
 Edit file path in file to file location or 
-run file expConvert.py -f <filename> 
+run file `expConvert.py -f <filename>` 
 
 ## Contributing
 
