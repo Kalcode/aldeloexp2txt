@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-# ${1:Aldelo EXP 2 TXT}
+# ${1:Project Name}
 Convert Aldelo default EXP format to a readable txt file.
 ## Installation
 * Install latest Python 3
